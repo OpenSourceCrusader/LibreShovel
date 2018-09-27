@@ -3,6 +3,7 @@ Open source fps game based on the not so popular Openspades game.
 
 ## What is this?
 * Open source FPS
+* Free assets
 * Built on the Armory3D engine
 * Eventually cross platform
 
